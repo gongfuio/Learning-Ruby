@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pho",
+				"phot_Name_Composite"
+			],
+			[
+				"mult",
+				"mult_Date"
+			],
+			[
+				"par",
+				"partial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cedric/Desktop/P2_09731.001",
+		"/Volumes/R_and_D/backups/workspace/sandbox/logstash.conf",
+		"/Users/cedric/Desktop/ABCH001 local/zABCH001 sync script.command",
+		"/Users/cedric/Sites/shielded-6123/app/controllers/coll_controller.rb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/detail.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_image_matrix.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/list.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_filter_list.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_pagination.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/layouts/application.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_buttons.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_filters.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/_bottom.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/filter_list.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/coll/_livre.html.erb",
+		"/Users/cedric/Sites/shielded-6123/lib/tasks/convert.rake",
+		"/Users/cedric/Sites/shielded-6123/config/application.rb",
+		"/Users/cedric/Desktop/auer convert log 14.03.04",
+		"/Users/cedric/Downloads/root@abch024.dlsa.ch",
+		"/Users/cedric/Sites/shielded-6123/config/locales/fr.yml",
+		"/Users/cedric/Sites/shielded-6123/config/locales/en.yml",
+		"/Users/cedric/Downloads/FlappyBird.prg",
+		"/Users/cedric/Sites/shielded-6123/app/controllers/application_controller.rb",
+		"/Users/cedric/Desktop/Devis Auer",
+		"/Users/cedric/Desktop/Basic/SUM.BAS",
+		"/Users/cedric/Desktop/Basic/STARS.BAS",
+		"/Users/cedric/Desktop/Basic/BOUNCE.BAS",
+		"/Users/cedric/Desktop/Basic/RECTS.BAS",
+		"/Users/cedric/Desktop/Basic/QUIZ.BAS",
+		"/Users/cedric/Desktop/Basic/QUAD.BAS",
+		"/Users/cedric/Desktop/Basic/PLOT3D.BAS",
+		"/Users/cedric/Desktop/Basic/PLOT2D.BAS",
+		"/Users/cedric/Desktop/Basic/PAINT.BAS",
+		"/Users/cedric/Desktop/Basic/NAME.BAS",
+		"/Users/cedric/Desktop/Basic/CIRCLE.BAS",
+		"/Users/cedric/Desktop/Basic/CODE.BAS",
+		"/Users/cedric/Desktop/Basic/COLOR.BAS",
+		"/Users/cedric/Desktop/Basic/DRAW.BAS",
+		"/Users/cedric/Desktop/Basic/FILEIO.BAS",
+		"/Users/cedric/Desktop/Basic/FONT.BAS",
+		"/Users/cedric/Desktop/Basic/FOR.BAS",
+		"/Users/cedric/Desktop/Basic/FSTARS.BAS",
+		"/Users/cedric/Desktop/Basic/GENPW.BAS",
+		"/Users/cedric/Desktop/Basic/GUESS.BAS",
+		"/Users/cedric/Desktop/En Cours/ABCH004 forensics/Log machine Guy",
+		"/Users/cedric/Desktop/Caravan telecom",
+		"/Users/cedric/Desktop/Documents/Enseignement/2003 CH/03.01.08 - Candidature Infolearn",
+		"/Users/cedric/Desktop/ABCH001 local/ABCH001 sync script.bash",
+		"/Volumes/Externe/Media to Archive/A.Place.In.The.Sun.2012.720p.BluRay.x264-iMSORNY [PublicHD]/imsorny-en.plats.i.solen.720p.nfo",
+		"/Users/cedric/Desktop/Learning_Ruby/Koans/koans/about_asserts.rb",
+		"/Users/cedric/Desktop/Media to Archive/Flashdance.1983.1080p.BluRay.x264-GECKOS[rarbg]/Subs/Flashdance.1983.1080p.BluRay.x264-GECKOS.idx",
+		"/Users/cedric/Desktop/Media to Archive/Flashdance.1983.1080p.BluRay.x264-GECKOS[rarbg]/Subs/Flashdance (1983).sub",
+		"/Users/cedric/Desktop/messages",
+		"/Users/cedric/Desktop/messages.4",
+		"/Users/cedric/Desktop/messages.2",
+		"/Users/cedric/Desktop/messages.0",
+		"/Users/cedric/Desktop/messages.3",
+		"/Users/cedric/Desktop/messages.1",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/view.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/_detail.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/controllers/public_controller.rb",
+		"/Users/cedric/Sites/shielded-6123/app/controllers/shop_controller.rb",
+		"/Users/cedric/Sites/shielded-6123/app/models/boutique.rb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/_navbar.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/_newsletter_widget.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/archives.html.erb",
+		"/Users/cedric/Desktop/convert_output",
+		"/Users/cedric/Sites/shielded-6123/app/views/shop/detail.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/detail.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/ency_shop_detail.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/shop/_item.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/_item.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/_item.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/public/amis.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/pro_version.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/controllers/ency_controller.rb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/subscribe.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/_top.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/shop/list.html.erb",
+		"/Users/cedric/Sites/shielded-6123/app/views/ency/_navbar.html.erb",
+		"/Users/cedric/Sites/shielded-6123/config/database.yml",
+		"/Users/cedric/Desktop/Documents/Perso CT/Archives/Archive forum.tineo.com/09.07.25 - Backup Forum from webserver/forum/db/mssql.php",
+		"/Users/cedric/Sites/shielded-6123/Gemfile",
+		"/Users/cedric/Desktop/Bug report App Drozdowska - 13.12.03",
+		"/Users/cedric/Desktop/Noell topic",
+		"/Users/cedric/Dropbox/For iPad/Ruby/Well Grounded Rubyist/TWGR_code/1_1.rb",
+		"/Users/cedric/Sites/growing-summer-5291/app/views/public/_menu2.html.erb",
+		"/Users/cedric/Sites/growing-summer-5291/app/views/public/_cal_cours_smartphone.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_cal_cours_smartphone.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_menu2.html.erb",
+		"/Users/cedric/Desktop/make another computer xsan controller",
+		"/Users/cedric/Desktop/Noël/Questions for Noelle",
+		"/Users/cedric/Desktop/Short text",
+		"/Users/cedric/Desktop/Questions for Noelle",
+		"/Users/cedric/Desktop/En Cours/AUER/auer website",
+		"/Users/cedric/Desktop/Left school at 15 to open a computer store in Laus",
+		"/Users/cedric/Downloads/76079550.V11",
+		"/Users/cedric/Sites/growing-summer-5291/app/views/layouts/application.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/index.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/layouts/application.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/traitement.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/smartphone.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/photo.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/ninja.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/cal.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/public/stylesheets/default.css",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/cal_register.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/controllers/public_controller.rb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_cal_cours_macninja.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/contact.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_contact_seance_info_fields.html.erb",
+		"/Users/cedric/Sites/Digital-Light.ch before sept-13 modifs/deep-samurai-5574 copy/app/views/public/contact.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/uspp/_cours8.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_offre_speciale.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/cours_photo_bases.html.erb",
+		"/Users/cedric/Sites/deep-samurai-5574/app/views/public/_menu.html.erb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>,/Users/cedric/Sites/shielded-6123",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"617",
+			"616",
+			"619",
+			"19",
+			"/root",
+			"ABCH018a",
+			"GU",
+			"gulf",
+			"14",
+			"16",
+			"15",
+			"ABCH018a",
+			"140531",
+			"140528",
+			"Movies",
+			"Sacha",
+			"oneUser",
+			"Movies",
+			"Actual",
+			"Courant",
+			"Sacha",
+			"Music",
+			"Global",
+			"Archives",
+			"matteo",
+			"Matteo",
+			"thierry",
+			"Thierry",
+			"Distribution1",
+			"Thierry",
+			", matteo, laurice, volciane, kephas",
+			"ChezToi",
+			"Commun",
+			"18",
+			"\"Ville d'édition\"",
+			"\"Dessinateur\"",
+			"\"Editeur\"",
+			"\"Photographe\"",
+			"\"Famille\"",
+			"\"Pays Fabrication\"",
+			"\"Fabricant\"",
+			"\"Années\"",
+			"\"Imprimeur\"",
+			"\"Artiste\"",
+			"\"Titre\"",
+			"\"sans filtre\"",
+			"count",
+			"@Title",
+			"none",
+			"wee",
+			"Années",
+			"*",
+			"rocksmith",
+			"skip_rec",
+			"filter_f",
+			"filter_label",
+			"filter_field",
+			"filter_label",
+			"type",
+			"[]",
+			"<%",
+			"}",
+			"{",
+			"Artiste",
+			"magic",
+			"convert",
+			"rake",
+			"not",
+			"and",
+			"175",
+			"0123",
+			"20",
+			"23",
+			"20",
+			"abch027",
+			"24",
+			"23",
+			"24",
+			"23",
+			"22",
+			"Admin",
+			"11",
+			"10",
+			".foundation",
+			"encyclopaedia",
+			"title",
+			"encyclopaedia",
+			"Encyclopaedia",
+			"encyclopaedia",
+			"Encyclopaedia",
+			"encyclopaedia",
+			"Courant",
+			"Development",
+			"`",
+			"Courant",
+			"24",
+			"23",
+			"24",
+			"23",
+			"24",
+			"iphone",
+			"130923",
+			"3",
+			"/SYNC026-1",
+			"matin",
+			"li",
+			"bon_cadeau",
+			"computer",
+			"text_field",
+			"name",
+			"prix",
+			"#",
+			"field",
+			"www.rubyonrails",
+			"de"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"encyclopedia",
+			"Encyclopedia",
+			"encyclopedia",
+			"Encyclopedia",
+			"encyclopedia"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "learning-ruby.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
